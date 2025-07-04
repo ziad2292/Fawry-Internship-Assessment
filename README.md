@@ -39,8 +39,4 @@ The system simulates a basic online shopping experience with support for:
 ### 📦 ShippingService Integration
 - Collects all shippable items
 - Accepts a list of objects implementing:
-  ```java
-  interface ShippableItem {
-      String getName();
-      double getWeight();
-  }
+ 
